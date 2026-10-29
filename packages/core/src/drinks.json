@@ -1,0 +1,19 @@
+[
+  { "id": "coffee-brewed", "name": "Coffee, brewed", "aliases": ["drip", "filter coffee", "americano"], "serving": "240 ml (8 oz)", "mg": 96, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "espresso", "name": "Espresso", "aliases": ["shot", "ristretto"], "serving": "30 ml (1 oz) shot", "mg": 64, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "latte", "name": "Latte (2 shots)", "aliases": ["cappuccino", "flat white", "cafe latte"], "serving": "2 espresso shots", "mg": 128, "source": "2 × espresso, Mayo Clinic figure" },
+  { "id": "coffee-instant", "name": "Coffee, instant", "aliases": ["nescafe"], "serving": "240 ml (8 oz)", "mg": 62, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "coffee-decaf", "name": "Coffee, decaf", "aliases": ["decaffeinated"], "serving": "240 ml (8 oz)", "mg": 2, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "cold-brew", "name": "Cold brew (Starbucks grande)", "aliases": ["cold brew coffee"], "serving": "473 ml (16 oz)", "mg": 205, "source": "Starbucks nutrition, Cold Brew grande" },
+  { "id": "tea-black", "name": "Black tea", "aliases": ["english breakfast", "earl grey", "orange pekoe"], "serving": "240 ml (8 oz)", "mg": 47, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "tea-green", "name": "Green tea", "aliases": ["sencha"], "serving": "240 ml (8 oz)", "mg": 28, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" },
+  { "id": "coke", "name": "Coca-Cola", "aliases": ["coke classic", "cola"], "serving": "355 ml (12 oz) can", "mg": 34, "source": "The Coca-Cola Company, product FAQ" },
+  { "id": "coke-zero", "name": "Coke Zero", "aliases": ["coca-cola zero sugar", "coke zero sugar"], "serving": "355 ml (12 oz) can", "mg": 34, "source": "The Coca-Cola Company, product FAQ" },
+  { "id": "diet-coke", "name": "Diet Coke", "aliases": ["coca-cola light"], "serving": "355 ml (12 oz) can", "mg": 46, "source": "The Coca-Cola Company, product FAQ" },
+  { "id": "pepsi", "name": "Pepsi", "aliases": ["pepsi cola"], "serving": "355 ml (12 oz) can", "mg": 38, "source": "PepsiCo product information" },
+  { "id": "mountain-dew", "name": "Mountain Dew", "aliases": ["mtn dew"], "serving": "355 ml (12 oz) can", "mg": 54, "source": "PepsiCo product information" },
+  { "id": "dr-pepper", "name": "Dr Pepper", "aliases": [], "serving": "355 ml (12 oz) can", "mg": 41, "source": "Keurig Dr Pepper product information" },
+  { "id": "red-bull", "name": "Red Bull", "aliases": ["energy drink"], "serving": "250 ml (8.4 oz) can", "mg": 80, "source": "Red Bull, product information" },
+  { "id": "monster", "name": "Monster Energy", "aliases": ["monster"], "serving": "473 ml (16 oz) can", "mg": 160, "source": "Monster Beverage, product information" },
+  { "id": "hot-chocolate", "name": "Hot chocolate", "aliases": ["cocoa"], "serving": "240 ml (8 oz)", "mg": 5, "source": "Mayo Clinic, Caffeine content for coffee, tea, soda and more" }
+]

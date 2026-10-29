@@ -1,0 +1,19 @@
+{
+  "name": "caffeine-tracker",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Browser-only caffeine tracker with work-hours reminders.",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w apps/web",
+    "build": "npm run build -w packages/core && npm run build -w apps/web",
+    "test": "npm run test -w packages/core && npm run test -w apps/web",
+    "typecheck": "npm run typecheck -w packages/core && npm run typecheck -w apps/web"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}
