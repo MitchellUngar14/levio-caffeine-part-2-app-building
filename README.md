@@ -4,7 +4,7 @@ A free, browser-only app that logs your caffeine and reminds you when you've gon
 too long without it during work hours. Terminal theme, light and dark.
 
 This repo holds Parts 2–4 of a Claude Code demo. Part 1 (architecture) is in the
-sibling folder `../caffeine-tracker`, frozen at tag `part-1-architecture`.
+sibling folder `../Part 1 - Architecture`, frozen at tag `part-1-architecture`.
 
 | Part | Tag |
 |---|---|

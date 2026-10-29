@@ -6,7 +6,7 @@ There is no backend: everything runs in the open browser tab, and data lives in
 localStorage. It's hosted for free on Cloudflare Pages.
 
 This repo is Parts 2–4 of a four-part Claude Code demo (build, test, production).
-Part 1, the architecture, lives in the sibling repo `../caffeine-tracker` and is
+Part 1, the architecture, lives in the sibling repo `../Part 1 - Architecture` and is
 frozen there. `docs/ARCHITECTURE.md` here is the living copy: when the design
 changes during the build, update it and note the change in its
 "Changes since Part 1" list.

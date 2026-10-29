@@ -1,7 +1,7 @@
 # Caffeine Tracker: architecture
 
 Status: living copy for the build (Parts 2–4). The Part 1 original is frozen in
-`../caffeine-tracker` at tag `part-1-architecture`.
+`../Part 1 - Architecture` at tag `part-1-architecture`.
 
 ## Changes since Part 1
 
